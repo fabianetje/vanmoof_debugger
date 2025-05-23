@@ -1,0 +1,5 @@
+- Als je VanMoof niet meer opstart, controleer of hij wel oplaadt. Gebruik een andere kabel of adapter.
+- Als je VanMoof geen geluid maakt, controleer of het geluid in de app is ingeschakeld.
+- Een knipperend rood LED-lampje kan betekenen dat de accu leeg is.
+- De VanMoof S3 heeft soms problemen met de automatische versnellingswissel.
+- Update je firmware via de VanMoof app voor bug fixes.
